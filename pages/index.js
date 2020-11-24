@@ -35,7 +35,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Life Of A Genz &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>How a 17-Year-Old from Nigeria Changes Kids' Lives With Next.js and Agility CMS.</p>
           </a>
 
           <a
