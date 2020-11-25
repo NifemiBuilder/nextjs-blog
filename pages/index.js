@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Oluwanifemi Dahunsi, The 17 year old Nigerian Disrupting Nations</title>
+        <title>Oluwanifemi Dahunsi</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
